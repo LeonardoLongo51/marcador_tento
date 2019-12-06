@@ -1,5 +1,8 @@
 # Marcador de Tento
 
+Desenvolvido por
+- Leonardo Rodrigo Longo
+
 A new Flutter project.
 
 ## Getting Started
