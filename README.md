@@ -1,7 +1,7 @@
 # Marcador de Tento
 
 Desenvolvido por
-- Leonardo Rodrigo Longo
+- Leonardo Rodrigo Longo RA 0040481821022
 
 A new Flutter project.
 
